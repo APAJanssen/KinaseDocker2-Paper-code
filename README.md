@@ -1,4 +1,4 @@
-# KinaseDocker²-Paper-code
+# KinaseDocker² - Paper reproduction code
 *Code to reproduce the work described in the paper*
 
 # Docking
