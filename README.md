@@ -1,6 +1,8 @@
 # KinaseDocker² - Paper reproduction code
 *Code to reproduce the work described in the paper*
 
+https://doi.org/10.26434/chemrxiv-2024-46rxl
+
 # Docking
 A selection of activities were docked in multiple structures per kinase. Docking was done using both AutoDock VinaGPU and DiffDock.
 
